@@ -1,0 +1,69 @@
+[2025-06-09 11:52:28,600] INFO - database.loading_clients:60 - Датафрейм загружен на слой staging.
+[2025-06-09 11:53:45,003] INFO - database.loading_clients:60 - Датафрейм загружен на слой staging.
+[2025-06-09 11:55:44,806] INFO - database.loading_clients:60 - Датафрейм загружен на слой staging.
+[2025-06-09 11:58:02,107] INFO - database.loading_clients:60 - Датафрейм загружен на слой staging.
+[2025-06-09 11:58:02,155] INFO - database.loading_usage:78 - Датафрейм загружен на слой staging.
+[2025-06-09 12:01:20,286] INFO - database.loading_clients:60 - Датафрейм загружен на слой staging.
+[2025-06-09 12:01:20,333] INFO - database.loading_usage:78 - Датафрейм загружен на слой staging.
+[2025-06-09 12:03:36,368] INFO - database.loading_clients:60 - Датафрейм загружен на слой staging.
+[2025-06-09 12:03:36,421] INFO - database.loading_usage:78 - Датафрейм загружен на слой staging.
+[2025-06-09 12:04:30,508] INFO - database.loading_clients:60 - Датафрейм загружен на слой staging.
+[2025-06-09 12:04:30,555] INFO - database.loading_usage:78 - Датафрейм загружен на слой staging.
+[2025-06-09 12:04:30,626] INFO - database.load_datamart:165 - Датафрейм загружен в витрину.
+[2025-06-09 15:05:12,328] INFO - database.loading_clients:60 - Датафрейм загружен на слой staging.
+[2025-06-09 15:05:12,363] INFO - database.loading_usage:78 - Датафрейм загружен на слой staging.
+[2025-06-09 15:06:07,596] INFO - database.loading_clients:60 - Датафрейм загружен на слой staging.
+[2025-06-09 15:06:07,642] INFO - database.loading_usage:78 - Датафрейм загружен на слой staging.
+[2025-06-09 15:07:47,738] INFO - database.loading_clients:60 - Датафрейм загружен на слой staging.
+[2025-06-09 15:07:47,775] INFO - database.loading_usage:78 - Датафрейм загружен на слой staging.
+[2025-06-09 15:07:47,820] INFO - database.load_datamart:165 - Датафрейм загружен в витрину.
+[2025-06-09 15:17:28,381] INFO - database.create_table:113 - Таблица {name} успешно создана
+[2025-06-09 15:17:28,382] INFO - database.create_table:113 - Таблица {name} успешно создана
+[2025-06-09 15:17:28,383] INFO - database.create_table:113 - Таблица {name} успешно создана
+[2025-06-09 15:17:28,388] INFO - database.seq_restart:34 - Последовательность {name} сброшена
+[2025-06-09 15:17:28,391] INFO - database.seq_restart:34 - Последовательность {name} сброшена
+[2025-06-09 15:17:28,430] INFO - database.loading_clients:62 - Датафрейм загружен на слой staging.
+[2025-06-09 15:17:28,431] INFO - database.reading_file:44 - Загрузка файла {file_name} на слой staging успешно завершена
+[2025-06-09 15:17:28,478] INFO - database.loading_usage:80 - Датафрейм загружен на слой staging.
+[2025-06-09 15:17:28,478] INFO - database.reading_file:44 - Загрузка файла {file_name} на слой staging успешно завершена
+[2025-06-09 15:17:28,514] INFO - database.load_datamart:170 - Датафрейм загружен в витрину.
+[2025-06-09 15:20:17,136] INFO - database.create_table:113 - Таблица {name} успешно создана
+[2025-06-09 15:20:17,137] INFO - database.create_table:113 - Таблица {name} успешно создана
+[2025-06-09 15:20:17,138] INFO - database.create_table:113 - Таблица {name} успешно создана
+[2025-06-09 15:20:17,142] INFO - database.seq_restart:34 - Последовательность {name} сброшена
+[2025-06-09 15:20:17,146] INFO - database.seq_restart:34 - Последовательность {name} сброшена
+[2025-06-09 15:20:17,192] INFO - database.loading_clients:62 - Датафрейм загружен на слой staging.
+[2025-06-09 15:20:17,192] INFO - database.reading_file:44 - Загрузка файла {file_name} на слой staging успешно завершена
+[2025-06-09 15:20:17,235] INFO - database.loading_usage:80 - Датафрейм загружен на слой staging.
+[2025-06-09 15:20:17,235] INFO - database.reading_file:44 - Загрузка файла {file_name} на слой staging успешно завершена
+[2025-06-09 15:20:17,269] INFO - database.load_datamart:170 - Датафрейм загружен в витрину.
+[2025-06-09 15:22:11,061] INFO - database.create_table:113 - Таблица {name} успешно создана
+[2025-06-09 15:22:11,063] INFO - database.create_table:113 - Таблица {name} успешно создана
+[2025-06-09 15:22:11,063] INFO - database.create_table:113 - Таблица {name} успешно создана
+[2025-06-09 15:22:11,066] INFO - database.seq_restart:34 - Последовательность {name} сброшена
+[2025-06-09 15:22:11,071] INFO - database.seq_restart:34 - Последовательность {name} сброшена
+[2025-06-09 15:22:11,120] INFO - database.loading_clients:62 - Датафрейм загружен на слой staging.
+[2025-06-09 15:22:11,121] INFO - database.reading_file:44 - Загрузка файла {file_name} на слой staging успешно завершена
+[2025-06-09 15:22:11,167] INFO - database.loading_usage:80 - Датафрейм загружен на слой staging.
+[2025-06-09 15:22:11,168] INFO - database.reading_file:44 - Загрузка файла {file_name} на слой staging успешно завершена
+[2025-06-09 15:22:11,203] INFO - database.load_datamart:170 - Датафрейм загружен в витрину.
+[2025-06-09 15:32:06,758] INFO - database.create_table:113 - Таблица {name} успешно создана
+[2025-06-09 15:32:06,759] INFO - database.create_table:113 - Таблица {name} успешно создана
+[2025-06-09 15:32:06,760] INFO - database.create_table:113 - Таблица {name} успешно создана
+[2025-06-09 15:32:06,762] INFO - database.seq_restart:34 - Последовательность {name} сброшена
+[2025-06-09 15:32:06,767] INFO - database.seq_restart:34 - Последовательность {name} сброшена
+[2025-06-09 15:32:06,816] INFO - database.loading_clients:62 - Датафрейм загружен на слой staging.
+[2025-06-09 15:32:06,817] INFO - database.reading_file:44 - Загрузка файла {file_name} на слой staging успешно завершена
+[2025-06-09 15:32:06,864] INFO - database.loading_usage:80 - Датафрейм загружен на слой staging.
+[2025-06-09 15:32:06,864] INFO - database.reading_file:44 - Загрузка файла {file_name} на слой staging успешно завершена
+[2025-06-09 15:32:06,919] INFO - database.load_datamart:170 - Датафрейм загружен в витрину.
+[2025-06-09 17:21:56,438] INFO - database.create_table:113 - Таблица {name} успешно создана
+[2025-06-09 17:21:56,441] INFO - database.create_table:113 - Таблица {name} успешно создана
+[2025-06-09 17:21:56,442] INFO - database.create_table:113 - Таблица {name} успешно создана
+[2025-06-09 17:21:56,444] INFO - database.seq_restart:34 - Последовательность {name} сброшена
+[2025-06-09 17:21:56,448] INFO - database.seq_restart:34 - Последовательность {name} сброшена
+[2025-06-09 17:21:56,507] INFO - database.loading_clients:62 - Датафрейм загружен на слой staging.
+[2025-06-09 17:21:56,508] INFO - database.reading_file:44 - Загрузка файла {file_name} на слой staging успешно завершена
+[2025-06-09 17:21:56,558] INFO - database.loading_usage:80 - Датафрейм загружен на слой staging.
+[2025-06-09 17:21:56,559] INFO - database.reading_file:44 - Загрузка файла {file_name} на слой staging успешно завершена
+[2025-06-09 17:21:56,606] INFO - database.load_datamart:170 - Датафрейм загружен в витрину.
