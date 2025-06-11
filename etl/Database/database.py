@@ -31,7 +31,7 @@ class DBExtractor:
         #сброс последовательности
         with self.engine.begin() as connection:
             connection.execute(text(f"ALTER SEQUENCE {name} RESTART WITH 1"))
-            logger.info("Последовательность {name} сброшена")
+            logger.info(f"Последовательность {name} сброшена")
     
     def reading_file(self, path_file: str, loading_function: Callable[[csv.reader, str, Any], None]):
         file_name = os.path.basename(path_file)
@@ -41,7 +41,7 @@ class DBExtractor:
             next(reader) #Пропускаю заголовок
             data = list(reader)
             loading_function(data, file_name)
-            logger.info("Загрузка файла {file_name} на слой staging успешно завершена")
+            logger.info(f"Загрузка файла {file_name} на слой staging успешно завершена")
 
     def loading_clients(self, clients_info: List[Tuple[Any, Any]], file_name: str) -> None:
         if not clients_info:
@@ -110,7 +110,7 @@ class DBExtractor:
                 	CONSTRAINT client_segments_pkey PRIMARY KEY (client_id),
                     CONSTRAINT client_segments_client_id_fkey FOREIGN KEY (client_id) REFERENCES staging.clients(id))'''))
     
-            logger.info("Таблица {name} успешно создана")
+            logger.info(f"Таблица {name} успешно создана")
         
         
     def load_sql(self, path: str) -> str:
